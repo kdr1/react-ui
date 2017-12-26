@@ -1,6 +1,6 @@
 {
   "name": "react-adaptive-ui",
-  "version": "0.10.8",
+  "version": "0.10.9",
   "description": "A light weight, adaptive, and easy to use user interface, written in React.",
   "main": "build/index.js",
   "scripts": {
